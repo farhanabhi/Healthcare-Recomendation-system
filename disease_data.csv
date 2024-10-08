@@ -1,0 +1,336 @@
+disease,symptom1,symptom2,symptom3,causes,remedies,dietary_recommendations
+Flu,fever,cough,headache,viral infection,"rest, hydration",drink plenty of fluids
+Cold,sneezing,runny nose,sore throat,viral infection,"rest, fluids",eat vitamin C rich foods
+Migraine,throbbing pain,nausea,light sensitivity,"stress, triggers","medication, rest",avoid caffeine and chocolate
+Stomach Ache,nausea,vomiting,cramps,food poisoning,"hydration, rest",avoid greasy foods
+Diabetes,increased thirst,fatigue,frequent urination,"genetics, lifestyle","medication, exercise",low sugar diet
+Asthma,wheezing,shortness of breath,coughing,allergies,"inhalers, medication",avoid allergens
+Back Pain,lower back pain,stiffness,spasms,poor posture,physical therapy,ergonomic adjustments
+Indigestion,heartburn,belching,bloating,overeating,"antacids, rest",avoid spicy foods
+Allergy,rash,sneezing,itchy eyes,allergens,antihistamines,avoid allergens
+Hypertension,headache,fatigue,dizziness,"stress, poor diet","medication, exercise",reduce salt intake
+Anemia,fatigue,dizziness,shortness of breath,iron deficiency,iron supplements,eat iron-rich foods
+Depression,sadness,loss of interest,fatigue,chemical imbalance,"therapy, medication",maintain a balanced diet
+Arthritis,joint pain,stiffness,swelling,"aging, injury","medication, exercise",omega-3 rich foods
+Insomnia,trouble sleeping,waking up early,tiredness,"stress, anxiety",relaxation techniques,avoid caffeine
+Chickenpox,fever,rash,itching,viral infection,"rest, antihistamines",keep skin cool
+Hepatitis,jaundice,fatigue,abdominal pain,viral infection,antiviral medication,avoid alcohol
+Bronchitis,cough,mucus,chest pain,"smoking, infection","rest, hydration",avoid dairy
+Sinusitis,headache,nasal congestion,facial pain,infection,decongestants,drink plenty of fluids
+Pneumonia,cough,fever,chest pain,bacterial infection,antibiotics,avoid cold drinks
+Tuberculosis,cough,weight loss,night sweats,bacterial infection,antibiotics,maintain a balanced diet
+Obesity,weight gain,fatigue,joint pain,"overeating, inactivity","exercise, diet control",low-fat diet
+Malaria,fever,chills,headache,mosquito bites,antimalarial medication,stay hydrated
+Typhoid,fever,abdominal pain,diarrhea,bacterial infection,antibiotics,avoid raw food
+Jaundice,yellow skin,fatigue,dark urine,liver dysfunction,"rest, medication",low-fat diet
+Appendicitis,abdominal pain,nausea,vomiting,inflammation of appendix,surgery,avoid solid foods initially
+Gout,joint pain,redness,swelling,high uric acid,"medication, rest",avoid purine-rich foods
+Gallstones,abdominal pain,nausea,vomiting,bile imbalance,"medication, surgery",avoid fatty foods
+Measles,fever,rash,runny nose,viral infection,"rest, fluids",avoid spicy foods
+Chickenpox,rash,fever,tiredness,viral infection,antiviral medication,avoid scratching
+Mumps,swollen glands,fever,headache,viral infection,"rest, hydration",eat soft foods
+Rubella,rash,fever,joint pain,viral infection,"rest, pain relief",avoid contact with others
+Diphtheria,sore throat,fever,swollen glands,bacterial infection,antibiotics,avoid dairy
+Hepatitis B,jaundice,abdominal pain,fatigue,viral infection,antiviral medication,avoid alcohol
+Hepatitis C,fatigue,joint pain,dark urine,viral infection,antiviral medication,avoid alcohol
+Hepatitis A,jaundice,fatigue,nausea,viral infection,"rest, hydration",avoid alcohol
+Dengue Fever,fever,joint pain,rash,mosquito bites,"pain relief, hydration",avoid aspirin
+Zika Virus,fever,rash,joint pain,mosquito bites,"rest, pain relief",drink fluids
+Yellow Fever,fever,jaundice,muscle pain,mosquito bites,antiviral medication,stay hydrated
+Ebola,fever,vomiting,diarrhea,viral infection,"isolation, fluids",maintain hygiene
+Rabies,fever,confusion,agitation,animal bites,vaccination,avoid contact with animals
+SARS,fever,cough,breathing difficulty,viral infection,"isolation, rest",drink plenty of fluids
+MERS,fever,cough,breathing difficulty,viral infection,"isolation, rest",drink plenty of fluids
+COVID-19,fever,cough,loss of taste/smell,viral infection,"rest, isolation",stay hydrated
+Influenza,fever,cough,sore throat,viral infection,"rest, hydration",drink plenty of fluids
+Whooping Cough,cough,vomiting,fatigue,bacterial infection,antibiotics,avoid cold drinks
+Scarlet Fever,rash,fever,sore throat,bacterial infection,antibiotics,maintain hydration
+Meningitis,fever,headache,neck stiffness,bacterial infection,antibiotics,stay hydrated
+Cholera,diarrhea,vomiting,dehydration,bacterial infection,rehydration,drink oral rehydration solution
+Plague,fever,chills,swollen glands,bacterial infection,antibiotics,maintain hygiene
+Typhus,fever,rash,headache,bacterial infection,antibiotics,stay hydrated
+Leprosy,skin lesions,numbness,weakness,bacterial infection,antibiotics,avoid raw food
+Smallpox,fever,rash,vomiting,viral infection,"isolation, vaccination",maintain hygiene
+Polio,muscle weakness,paralysis,fever,viral infection,vaccination,maintain hygiene
+Hantavirus,fever,muscle aches,fatigue,rodent exposure,supportive care,maintain hygiene
+Lyme Disease,rash,fever,joint pain,tick bites,antibiotics,avoid ticks
+West Nile Virus,fever,rash,headache,mosquito bites,pain relief,stay hydrated
+Legionnaires' Disease,cough,fever,muscle pain,bacterial infection,antibiotics,avoid smoking
+Swine Flu,fever,cough,sore throat,viral infection,"rest, hydration",drink plenty of fluids
+Bird Flu,fever,cough,sore throat,viral infection,antiviral medication,avoid contact with birds
+Japanese Encephalitis,fever,headache,vomiting,mosquito bites,vaccination,avoid mosquito bites
+Lassa Fever,fever,chest pain,vomiting,rodent exposure,antiviral medication,maintain hygiene
+Marburg Virus,fever,headache,bleeding,viral infection,"isolation, fluids",maintain hygiene
+Rickettsia,fever,rash,muscle pain,tick bites,antibiotics,avoid ticks
+Toxoplasmosis,fever,swollen glands,muscle pain,parasite infection,medication,cook meat properly
+Trichinosis,diarrhea,abdominal pain,muscle pain,parasitic worms,anti-parasitic medication,cook meat properly
+Giardiasis,diarrhea,nausea,abdominal pain,parasitic infection,antibiotics,drink safe water
+Amebiasis,diarrhea,abdominal pain,weight loss,parasitic infection,antibiotics,drink safe water
+Ascariasis,abdominal pain,nausea,weight loss,parasitic worms,anti-parasitic medication,wash hands
+Hookworm,abdominal pain,anemia,fatigue,parasitic worms,anti-parasitic medication,wear shoes
+Schistosomiasis,rash,fever,muscle pain,parasitic worms,anti-parasitic medication,avoid contaminated water
+Elephantiasis,swelling,skin thickening,pain,parasitic worms,anti-parasitic medication,avoid mosquito bites
+Onchocerciasis,rash,itching,eye pain,parasitic worms,anti-parasitic medication,avoid blackfly bites
+Filariasis,fever,swelling,skin thickening,parasitic worms,anti-parasitic medication,avoid mosquito bites
+Dracunculiasis,skin blisters,fever,nausea,parasitic worms,removal of worm,drink safe water
+Cysticercosis,seizures,headache,muscle pain,tapeworm infection,anti-parasitic medication,cook meat properly
+Echinococcosis,abdominal pain,jaundice,nausea,tapeworm infection,anti-parasitic medication,avoid contact with animals
+Babesiosis,fever,chills,muscle pain,tick bites,antibiotics,avoid tick bites
+Leishmaniasis,skin sores,fever,weight loss,sandfly bites,anti-parasitic medication,avoid sandfly bites
+Trypanosomiasis,fever,headache,confusion,tsetse fly bites,anti-parasitic medication,avoid tsetse flies
+Chagas Disease,fever,swelling,fatigue,insect bites,anti-parasitic medication,avoid insect bites
+Kala-azar,fever,weight loss,abdominal pain,sandfly bites,anti-parasitic medication,avoid sandfly bites
+Q Fever,fever,headache,muscle pain,animal exposure,antibiotics,avoid animal contact
+Brucellosis,fever,joint pain,fatigue,animal exposure,antibiotics,avoid unpasteurized dairy
+Anthrax,skin ulcers,fever,breathing difficulty,bacterial infection,antibiotics,avoid infected animals
+Botulism,paralysis,difficulty swallowing,blurred vision,bacterial toxin,antitoxin treatment,avoid contaminated food
+Tetanus,muscle stiffness,jaw lock,muscle spasms,bacterial toxin,vaccination,maintain wound hygiene
+Diphyllobothriasis,abdominal pain,nausea,weight loss,tapeworm infection,anti-parasitic medication,cook fish properly
+Fascioliasis,abdominal pain,jaundice,weight loss,liver fluke infection,anti-parasitic medication,avoid raw water plants
+Paragonimiasis,cough,chest pain,fever,lung fluke infection,anti-parasitic medication,avoid raw crab
+Opisthorchiasis,jaundice,abdominal pain,nausea,liver fluke infection,anti-parasitic medication,avoid raw fish
+Clonorchiasis,jaundice,abdominal pain,fever,liver fluke infection,anti-parasitic medication,avoid raw fish
+Strongyloidiasis,rash,abdominal pain,diarrhea,parasitic worms,anti-parasitic medication,avoid contaminated soil
+Angiostrongyliasis,headache,neck stiffness,fever,parasitic worms,supportive care,avoid raw snails
+Gnathostomiasis,skin swelling,abdominal pain,nausea,parasitic worms,anti-parasitic medication,avoid raw fish
+Trichuriasis,diarrhea,abdominal pain,weight loss,parasitic worms,anti-parasitic medication,wash hands
+Achondroplasia,short stature,limb deformities,large head,genetic mutation,"supportive care, surgery",balanced diet
+Adrenoleukodystrophy,neurological decline,adrenal insufficiency,vision problems,genetic mutation,"hormone replacement, supportive care",balanced diet
+Albinism,skin hypopigmentation,vision problems,light sensitivity,genetic mutation,"sun protection, vision aids",balanced diet
+Alexander Disease,neurological issues,developmental delay,muscle stiffness,genetic mutation,"supportive care, therapy",balanced diet
+Aneurysms,headache,blurred vision,pain,genetic predisposition,"surgery, medication",balanced diet
+Antiphospholipid Syndrome,blood clots,fatigue,joint pain,autoimmune disorder,"anticoagulants, supportive care",balanced diet
+Arteriosclerosis,chest pain,shortness of breath,numbness,atherosclerosis,"lifestyle changes, medication",heart-healthy diet
+Ataxia-Telangiectasia,difficulty walking,skin changes,immune deficiency,genetic mutation,"supportive care, therapy",balanced diet
+Autoimmune Hepatitis,jaundice,abdominal pain,fatigue,autoimmune disorder,"medication, liver transplant",balanced diet
+Behçet's Disease,mouth ulcers,eye inflammation,joint pain,autoimmune disorder,"medication, supportive care",balanced diet
+Biliary Atresia,jaundice,abdominal swelling,pale stool,congenital condition,"surgery, supportive care",balanced diet
+Brachial Plexus Injury,arm weakness,pain,loss of sensation,trauma,"physical therapy, pain management",balanced diet
+Bullous Pemphigoid,blistering skin,itching,pain,autoimmune disorder,"corticosteroids, supportive care",balanced diet
+Celiac Disease,diarrhea,weight loss,abdominal pain,gluten intolerance,"gluten-free diet, supportive care",gluten-free diet
+Charcot-Marie-Tooth Disease,muscle weakness,foot deformities,sensory loss,genetic mutation,"physical therapy, supportive care",balanced diet
+Cholecystitis,abdominal pain,nausea,fever,gallstones,"antibiotics, surgery",low-fat diet
+Chronic Fatigue Syndrome,extreme fatigue,sleep disturbances,muscle pain,unknown,"lifestyle changes, supportive care",balanced diet
+Chronic Kidney Disease,fatigue,swelling,high blood pressure,"diabetes, hypertension","dialysis, medication",low-sodium diet
+Chronic Obstructive Pulmonary Disease,shortness of breath,chronic cough,wheezing,"smoking, pollution","inhalers, medication",balanced diet
+Complex Regional Pain Syndrome,severe pain,swelling,sensitivity,unknown,"pain management, physical therapy",balanced diet
+Congenital Adrenal Hyperplasia,ambiguous genitalia,electrolyte imbalances,growth issues,genetic mutation,"hormone therapy, supportive care",balanced diet
+Congenital Heart Disease,cyanosis,heart murmurs,difficulty breathing,genetic factors,"surgery, medication",balanced diet
+Congenital Hypothyroidism,lethargy,delayed growth,jaundice,genetic disorder,hormone replacement therapy,balanced diet
+Crohn's Disease,abdominal pain,diarrhea,weight loss,autoimmune disorder,"medication, diet management",balanced diet
+Cystic Hygroma,swelling,respiratory issues,fluid-filled sac,congenital condition,"surgery, supportive care",balanced diet
+Dermatomyositis,skin rash,muscle weakness,difficulty swallowing,autoimmune disorder,"corticosteroids, physical therapy",balanced diet
+Dystonia,muscle spasms,abnormal posture,tremors,neurological disorder,"medication, physical therapy",balanced diet
+Ehlers-Danlos Syndrome,joint hypermobility,skin elasticity,fragile skin,genetic disorder,"supportive care, physical therapy",balanced diet
+Endometriosis,pelvic pain,heavy menstruation,infertility,hormonal imbalance,"medication, surgery",balanced diet
+Epidermoid Cyst,lump under skin,tenderness,skin changes,blocked sebaceous gland,surgical removal,balanced diet
+Erdheim-Chester Disease,bone pain,abdominal pain,skin rashes,rare cancer,"medication, supportive care",balanced diet
+Essential Tremor,hand tremors,voice tremors,balance problems,neurological disorder,"medication, therapy",balanced diet
+Fabry Disease,pain,skin rashes,gastrointestinal issues,genetic disorder,"enzyme replacement, supportive care",balanced diet
+Familial Mediterranean Fever,recurrent fevers,abdominal pain,joint pain,genetic disorder,"medication, supportive care",balanced diet
+Fibromyalgia,widespread pain,fatigue,sleep disturbances,unknown,"medication, physical therapy",balanced diet
+Frontal Lobe Dementia,personality changes,memory loss,difficulty speaking,neurological disorder,"supportive care, therapy",balanced diet
+Gaucher Disease,bone pain,enlargement of organs,fatigue,genetic disorder,enzyme replacement therapy,balanced diet
+Glaucoma,eye pain,vision loss,headache,increased eye pressure,"eye drops, surgery",balanced diet
+Goodpasture Syndrome,kidney damage,lung issues,fatigue,autoimmune disorder,"immunosuppressants, dialysis",balanced diet
+Gout,joint pain,redness,swelling,uric acid buildup,"medication, dietary changes",low-purine diet
+Guillain-Barre Syndrome,muscle weakness,tingling,difficulty walking,autoimmune disorder,"supportive care, physical therapy",balanced diet
+Hemophilia,bleeding issues,joint pain,easy bruising,genetic disorder,clotting factor replacement,balanced diet
+Herpes Simplex,cold sores,genital sores,itching,viral infection,"antiviral medication, supportive care",balanced diet
+Histoplasmosis,fever,cough,chest pain,fungal infection,antifungal medication,balanced diet
+Hyperparathyroidism,bone pain,kidney stones,fatigue,overactive parathyroid,"medication, surgery",balanced diet
+Hypoparathyroidism,muscle cramps,numbness,tingling,underactive parathyroid,calcium and vitamin D supplements,balanced diet
+Hypothyroidism,fatigue,weight gain,cold intolerance,underactive thyroid gland,hormone replacement therapy,balanced diet
+IgA Nephropathy,blood in urine,protein in urine,swelling,kidney disorder,"medication, supportive care",low-sodium diet
+Immunodeficiency Disorder,frequent infections,delayed growth,weight loss,genetic or acquired,immunoglobulin therapy,balanced diet
+Inflammatory Bowel Disease,abdominal pain,diarrhea,weight loss,autoimmune disorder,"medication, dietary management",balanced diet
+Interstitial Cystitis,bladder pain,frequent urination,pelvic discomfort,bladder inflammation,"medication, bladder instillation",balanced diet
+Juvenile Idiopathic Arthritis,joint pain,swelling,stiffness,autoimmune disorder,"medication, physical therapy",balanced diet
+Kawasaki Disease,rash,fever,swollen lymph nodes,unknown,"medication, supportive care",balanced diet
+Kidney Stones,severe pain,blood in urine,nausea,mineral buildup,"pain management, hydration",balanced diet
+Lambert-Eaton Myasthenic Syndrome,muscle weakness,dry mouth,fatigue,autoimmune disorder,"medication, supportive care",balanced diet
+Leptospirosis,fever,muscle pain,jaundice,bacterial infection,"antibiotics, supportive care",balanced diet
+Lichen Planus,skin rash,itching,white patches,autoimmune disorder,"topical treatments, medication",balanced diet
+Lymphangioleiomyomatosis,lung issues,abdominal pain,cysts,genetic disorder,"supportive care, medication",balanced diet
+Disease,Symptom 1,Symptom 2,Symptom 3,Causes,Remedies,Dietary Recommendations
+Achondroplasia,short stature,limb deformities,large head,genetic mutation,"supportive care, surgery",balanced diet
+Adrenoleukodystrophy,neurological decline,adrenal insufficiency,vision problems,genetic mutation,"hormone replacement, supportive care",balanced diet
+Albinism,skin hypopigmentation,vision problems,light sensitivity,genetic mutation,"sun protection, vision aids",balanced diet
+Alexander Disease,neurological issues,developmental delay,muscle stiffness,genetic mutation,"supportive care, therapy",balanced diet
+Aneurysms,headache,blurred vision,pain,genetic predisposition,"surgery, medication",balanced diet
+Antiphospholipid Syndrome,blood clots,fatigue,joint pain,autoimmune disorder,"anticoagulants, supportive care",balanced diet
+Arteriosclerosis,chest pain,shortness of breath,numbness,atherosclerosis,"lifestyle changes, medication",heart-healthy diet
+Ataxia-Telangiectasia,difficulty walking,skin changes,immune deficiency,genetic mutation,"supportive care, therapy",balanced diet
+Autoimmune Hepatitis,jaundice,abdominal pain,fatigue,autoimmune disorder,"medication, liver transplant",balanced diet
+Behçet's Disease,mouth ulcers,eye inflammation,joint pain,autoimmune disorder,"medication, supportive care",balanced diet
+Biliary Atresia,jaundice,abdominal swelling,pale stool,congenital condition,"surgery, supportive care",balanced diet
+Brachial Plexus Injury,arm weakness,pain,loss of sensation,trauma,"physical therapy, pain management",balanced diet
+Bullous Pemphigoid,blistering skin,itching,pain,autoimmune disorder,"corticosteroids, supportive care",balanced diet
+Celiac Disease,diarrhea,weight loss,abdominal pain,gluten intolerance,"gluten-free diet, supportive care",gluten-free diet
+Charcot-Marie-Tooth Disease,muscle weakness,foot deformities,sensory loss,genetic mutation,"physical therapy, supportive care",balanced diet
+Cholecystitis,abdominal pain,nausea,fever,gallstones,"antibiotics, surgery",low-fat diet
+Chronic Fatigue Syndrome,extreme fatigue,sleep disturbances,muscle pain,unknown,"lifestyle changes, supportive care",balanced diet
+Chronic Kidney Disease,fatigue,swelling,high blood pressure,"diabetes, hypertension","dialysis, medication",low-sodium diet
+Chronic Obstructive Pulmonary Disease,shortness of breath,chronic cough,wheezing,"smoking, pollution","inhalers, medication",balanced diet
+Complex Regional Pain Syndrome,severe pain,swelling,sensitivity,unknown,"pain management, physical therapy",balanced diet
+Congenital Adrenal Hyperplasia,ambiguous genitalia,electrolyte imbalances,growth issues,genetic mutation,"hormone therapy, supportive care",balanced diet
+Congenital Heart Disease,cyanosis,heart murmurs,difficulty breathing,genetic factors,"surgery, medication",balanced diet
+Congenital Hypothyroidism,lethargy,delayed growth,jaundice,genetic disorder,hormone replacement therapy,balanced diet
+Crohn's Disease,abdominal pain,diarrhea,weight loss,autoimmune disorder,"medication, diet management",balanced diet
+Cystic Hygroma,swelling,respiratory issues,fluid-filled sac,congenital condition,"surgery, supportive care",balanced diet
+Dermatomyositis,skin rash,muscle weakness,difficulty swallowing,autoimmune disorder,"corticosteroids, physical therapy",balanced diet
+Dystonia,muscle spasms,abnormal posture,tremors,neurological disorder,"medication, physical therapy",balanced diet
+Ehlers-Danlos Syndrome,joint hypermobility,skin elasticity,fragile skin,genetic disorder,"supportive care, physical therapy",balanced diet
+Endometriosis,pelvic pain,heavy menstruation,infertility,hormonal imbalance,"medication, surgery",balanced diet
+Epidermoid Cyst,lump under skin,tenderness,skin changes,blocked sebaceous gland,surgical removal,balanced diet
+Erdheim-Chester Disease,bone pain,abdominal pain,skin rashes,rare cancer,"medication, supportive care",balanced diet
+Essential Tremor,hand tremors,voice tremors,balance problems,neurological disorder,"medication, therapy",balanced diet
+Fabry Disease,pain,skin rashes,gastrointestinal issues,genetic disorder,"enzyme replacement, supportive care",balanced diet
+Familial Mediterranean Fever,recurrent fevers,abdominal pain,joint pain,genetic disorder,"medication, supportive care",balanced diet
+Fibromyalgia,widespread pain,fatigue,sleep disturbances,unknown,"medication, physical therapy",balanced diet
+Frontal Lobe Dementia,personality changes,memory loss,difficulty speaking,neurological disorder,"supportive care, therapy",balanced diet
+Gaucher Disease,bone pain,enlargement of organs,fatigue,genetic disorder,enzyme replacement therapy,balanced diet
+Glaucoma,eye pain,vision loss,headache,increased eye pressure,"eye drops, surgery",balanced diet
+Goodpasture Syndrome,kidney damage,lung issues,fatigue,autoimmune disorder,"immunosuppressants, dialysis",balanced diet
+Gout,joint pain,redness,swelling,uric acid buildup,"medication, dietary changes",low-purine diet
+Guillain-Barre Syndrome,muscle weakness,tingling,difficulty walking,autoimmune disorder,"supportive care, physical therapy",balanced diet
+Hemophilia,bleeding issues,joint pain,easy bruising,genetic disorder,clotting factor replacement,balanced diet
+Herpes Simplex,cold sores,genital sores,itching,viral infection,"antiviral medication, supportive care",balanced diet
+Histoplasmosis,fever,cough,chest pain,fungal infection,antifungal medication,balanced diet
+Hyperparathyroidism,bone pain,kidney stones,fatigue,overactive parathyroid,"medication, surgery",balanced diet
+Hypoparathyroidism,muscle cramps,numbness,tingling,underactive parathyroid,calcium and vitamin D supplements,balanced diet
+Hypothyroidism,fatigue,weight gain,cold intolerance,underactive thyroid gland,hormone replacement therapy,balanced diet
+IgA Nephropathy,blood in urine,protein in urine,swelling,kidney disorder,"medication, supportive care",low-sodium diet
+Immunodeficiency Disorder,frequent infections,delayed growth,weight loss,genetic or acquired,immunoglobulin therapy,balanced diet
+Inflammatory Bowel Disease,abdominal pain,diarrhea,weight loss,autoimmune disorder,"medication, dietary management",balanced diet
+Interstitial Cystitis,bladder pain,frequent urination,pelvic discomfort,bladder inflammation,"medication, bladder instillation",balanced diet
+Juvenile Idiopathic Arthritis,joint pain,swelling,stiffness,autoimmune disorder,"medication, physical therapy",balanced diet
+Kawasaki Disease,rash,fever,swollen lymph nodes,unknown,"medication, supportive care",balanced diet
+Kidney Stones,severe pain,blood in urine,nausea,mineral buildup,"pain management, hydration",balanced diet
+Lambert-Eaton Myasthenic Syndrome,muscle weakness,dry mouth,fatigue,autoimmune disorder,"medication, supportive care",balanced diet
+Leptospirosis,fever,muscle pain,jaundice,bacterial infection,"antibiotics, supportive care",balanced diet
+Lichen Planus,skin rash,itching,white patches,autoimmune disorder,"topical treatments, medication",balanced diet
+Lymphangioleiomyomatosis,lung issues,abdominal pain,cysts,genetic disorder,"supportive care, medication",balanced diet
+Macular Degeneration,vision loss,blurred vision,difficulty seeing,age-related changes,"supportive care, eye treatments",balanced diet
+Meniere's Disease,vertigo,hearing loss,tinnitus,inner ear disorder,"medication, lifestyle changes",balanced diet
+Mitochondrial Myopathy,muscle weakness,fatigue,pain,genetic disorder,"supportive care, physical therapy",balanced diet
+Multiple Sclerosis,vision problems,muscle weakness,fatigue,autoimmune disorder,"medication, physical therapy",balanced diet
+Myasthenia Gravis,muscle weakness,drooping eyelids,difficulty swallowing,autoimmune disorder,"medication, supportive care",balanced diet
+Narcolepsy,excessive daytime sleepiness,sleep paralysis,hallucinations,neurological disorder,"medication, lifestyle adjustments",balanced diet
+Neuroblastoma,abdominal pain,bone pain,weight loss,cancer,"chemotherapy, surgery",balanced diet
+Ovarian Cysts,pelvic pain,bloating,irregular periods,hormonal imbalance,"medication, surgery",balanced diet
+Paget's Disease of Bone,bone pain,deformities,fractures,bone disorder,"medication, supportive care",balanced diet
+Pancreatitis,abdominal pain,nausea,vomiting,inflammation of pancreas,"medication, dietary changes",low-fat diet
+Pemphigus Vulgaris,blistering skin,pain,itching,autoimmune disorder,"corticosteroids, supportive care",balanced diet
+Peptic Ulcer Disease,abdominal pain,nausea,indigestion,stomach acid,"medication, dietary changes",balanced diet
+Pericarditis,chest pain,shortness of breath,fever,inflammation of pericardium,"medication, supportive care",balanced diet
+Polyarteritis Nodosa,joint pain,skin rash,abdominal pain,autoimmune disorder,"medication, supportive care",balanced diet
+Polycystic Ovary Syndrome,irregular periods,acne,weight gain,hormonal imbalance,"medication, lifestyle changes",balanced diet
+Porphyria,abdominal pain,skin sensitivity,neurological issues,genetic disorder,"medication, supportive care",balanced diet
+Post-Traumatic Stress Disorder,flashbacks,anxiety,insomnia,trauma,"therapy, medication",balanced diet
+Pre-eclampsia,high blood pressure,swelling,headache,pregnancy complication,"medication, delivery",balanced diet
+Psoriasis,skin rash,itching,dryness,autoimmune disorder,"topical treatments, medication",balanced diet
+Raynaud's Phenomenon,color changes in fingers,numbness,cold sensitivity,blood vessel disorder,"medication, lifestyle changes",balanced diet
+Restless Legs Syndrome,leg discomfort,urge to move legs,sleep disturbances,neurological disorder,"medication, lifestyle changes",balanced diet
+Rheumatoid Arthritis,joint pain,stiffness,swelling,autoimmune disorder,"medication, physical therapy",balanced diet
+Sarcoidosis,fatigue,swollen lymph nodes,lung issues,autoimmune disorder,"medication, supportive care",balanced diet
+Scleroderma,skin thickening,joint pain,internal organ problems,autoimmune disorder,"medication, supportive care",balanced diet
+Sjögren's Syndrome,dry mouth,dry eyes,joint pain,autoimmune disorder,"medication, supportive care",balanced diet
+Spina Bifida,spinal deformities,neurological issues,difficulty walking,congenital defect,"surgery, supportive care",balanced diet
+Systemic Lupus Erythematosus,joint pain,skin rash,fatigue,autoimmune disorder,"medication, supportive care",balanced diet
+Thalassemia,anemia,fatigue,weakness,genetic disorder,"blood transfusions, medication",balanced diet
+Toxoplasmosis,flu-like symptoms,vision problems,neurological issues,parasitic infection,"medication, supportive care",balanced diet
+Tuberculosis,cough,weight loss,night sweats,bacterial infection,"antibiotics, supportive care",balanced diet
+Turner Syndrome,short stature,ovarian dysfunction,heart defects,chromosomal abnormality,"hormone therapy, monitoring",balanced diet
+Ulcerative Colitis,diarrhea,abdominal pain,weight loss,inflammatory bowel disease,"medication, dietary management",balanced diet
+Urticaria,hives,itching,swelling,allergic reaction,"antihistamines, avoidance",balanced diet
+Vasculitis,skin rash,joint pain,fatigue,autoimmune disorder,"medication, supportive care",balanced diet
+Vitamin D Deficiency,bone pain,fatigue,muscle weakness,low vitamin D levels,vitamin D supplements,vitamin D-rich diet
+Wilson's Disease,liver dysfunction,neurological issues,psychiatric symptoms,genetic disorder,"chelation therapy, supportive care",balanced diet
+Wolfram Syndrome,diabetes,hearing loss,vision problems,genetic disorder,"supportive care, medication",balanced diet
+Adams-Oliver Syndrome,scalp defects,limb anomalies,heart defects,genetic mutation,"surgery, supportive care",balanced diet
+Aicardi Syndrome,seizures,brain malformations,eye abnormalities,genetic mutation,"anti-seizure medication, therapy",nutrient-rich diet
+Branchio-Oto-Renal Syndrome,hearing loss,kidney defects,neck cysts,genetic disorder,"hearing aids, surgery",balanced diet
+Cystic Fibrosis,chronic cough,difficulty breathing,digestive issues,genetic mutation,"enzyme replacement, chest physiotherapy",high-calorie diet
+Diamond-Blackfan Anemia,anemia,fatigue,growth delay,genetic mutation,"blood transfusions, steroids",iron-rich diet
+Duchenne Muscular Dystrophy,muscle weakness,difficulty walking,heart problems,genetic mutation,"physical therapy, corticosteroids",balanced diet
+Epidermolysis Bullosa,blistering skin,skin infections,pain,genetic disorder,"wound care, pain management",nutrient-dense diet
+Fibrodysplasia Ossificans Progressiva,bone formation in soft tissues,pain,restricted movement,genetic mutation,"supportive care, medication",balanced diet
+Glutaric Aciduria Type 1,developmental delay,muscle weakness,movement disorders,metabolic disorder,"dietary management, supplementation",low-protein diet
+Hereditary Angioedema,swelling,abdominal pain,breathing difficulty,genetic mutation,"medications, supportive care",balanced diet
+Hyper IgM Syndrome,recurrent infections,low white blood cell count,liver problems,genetic mutation,immunoglobulin therapy,balanced diet
+Kabuki Syndrome,facial abnormalities,short stature,intellectual disability,genetic mutation,"therapy, surgery",nutrient-rich diet
+Keloids,raised scars,itching,skin discoloration,genetic predisposition,"steroid injections, laser therapy",balanced diet
+Klippel-Trenaunay Syndrome,varicose veins,port-wine stains,limb overgrowth,vascular malformation,"compression therapy, surgery",low-sodium diet
+Li-Fraumeni Syndrome,multiple cancers,developmental delays,brain tumors,genetic mutation,"cancer treatment, monitoring",balanced diet
+Lymphedema,swelling,limb heaviness,skin changes,lymphatic system disorder,"compression garments, physical therapy",balanced diet
+Marfan Syndrome,tall stature,heart issues,flexible joints,genetic disorder,"beta blockers, surgery",balanced diet
+Miller-Dieker Syndrome,smooth brain surface,seizures,developmental delay,genetic disorder,"supportive care, therapy",balanced diet
+Mitochondrial Disease,muscle weakness,fatigue,organ dysfunction,genetic mutation,"supportive care, supplements",balanced diet
+Neurofibromatosis Type 1,skin tumors,learning disabilities,bone deformities,genetic mutation,"surgery, supportive care",balanced diet
+Neurofibromatosis Type 2,hearing loss,balance problems,brain tumors,genetic mutation,"surgery, hearing aids",balanced diet
+Noonan Syndrome,heart defects,short stature,developmental delay,genetic disorder,"surgery, hormone therapy",balanced diet
+Ocular Albinism,vision problems,light sensitivity,skin hypopigmentation,genetic mutation,"vision aids, sun protection",balanced diet
+Pallister-Killian Syndrome,facial abnormalities,developmental delay,weak muscle tone,genetic disorder,"supportive care, therapy",balanced diet
+Patau Syndrome,intellectual disability,heart defects,cleft palate,genetic disorder,"supportive care, surgery",balanced diet
+Rett Syndrome,loss of motor skills,seizures,repetitive hand movements,genetic mutation,"therapy, medication",balanced diet
+Rubinstein-Taybi Syndrome,broad thumbs,intellectual disability,growth delay,genetic disorder,"therapy, surgery",balanced diet
+Seckel Syndrome,small stature,intellectual disability,skeletal abnormalities,genetic mutation,"therapy, supportive care",balanced diet
+Shprintzen-Goldberg Syndrome,craniofacial abnormalities,developmental delay,heart problems,genetic mutation,"surgery, therapy",balanced diet
+Smith-Magenis Syndrome,sleep disturbances,intellectual disability,behavioral issues,genetic mutation,"behavioral therapy, medication",balanced diet
+Sotos Syndrome,rapid growth,intellectual disability,large hands/feet,genetic disorder,"therapy, supportive care",balanced diet
+Turner Syndrome,short stature,ovarian dysfunction,heart defects,chromosomal abnormality,"hormone therapy, monitoring",balanced diet
+Ullrich Congenital Muscular Dystrophy,muscle weakness,joint deformities,skin problems,genetic mutation,"physical therapy, supportive care",balanced diet
+Usher Syndrome,hearing loss,vision loss,balance problems,genetic mutation,"hearing aids, vision aids",balanced diet
+WAGR Syndrome,Wilms tumor,vision problems,developmental delay,genetic mutation,"surgery, chemotherapy",balanced diet
+Waardenburg Syndrome,hearing loss,pigmentation changes,eye abnormalities,genetic disorder,"hearing aids, supportive care",balanced diet
+Williams Syndrome,cardiovascular problems,developmental delay,friendly personality,genetic mutation,"surgery, therapy",balanced diet
+Zellweger Syndrome,liver dysfunction,developmental delay,neurological problems,genetic mutation,"supportive care, therapy",balanced diet
+Sturge-Weber Syndrome,port-wine stain,seizures,developmental delay,abnormal blood vessels,"anti-seizure medication, surgery",balanced diet
+Marfan Syndrome,tall stature,long limbs,heart issues,genetic disorder,"beta blockers, surgery",maintain a balanced diet
+Loeys-Dietz Syndrome,curved spine,wide-set eyes,heart problems,genetic disorder,"surgery, medication",low-sodium diet
+Prader-Willi Syndrome,excessive appetite,short stature,intellectual disability,genetic disorder,growth hormone therapy,calorie-controlled diet
+Angelman Syndrome,frequent laughter,movement problems,seizures,genetic disorder,"anti-seizure medication, therapy",maintain proper nutrition
+Rett Syndrome,loss of motor skills,seizures,breathing irregularities,genetic mutation,"supportive care, physical therapy",balanced diet
+Alport Syndrome,blood in urine,hearing loss,vision issues,genetic disorder,"kidney transplant, hearing aids",low-sodium diet
+Nail-Patella Syndrome,abnormal nails,kidney issues,joint pain,genetic disorder,"pain management, therapy",maintain hydration
+Cowden Syndrome,skin growths,thyroid issues,gastrointestinal polyps,genetic mutation,"surgery, monitoring",high-fiber diet
+Pierre Robin Sequence,small lower jaw,breathing issues,feeding difficulties,genetic disorder,"surgery, feeding support",nutrient-dense foods
+Poland Syndrome,underdeveloped chest,missing hand muscles,asymmetric limbs,genetic disorder,"surgery, physical therapy",balanced diet
+Klippel-Trenaunay Syndrome,varicose veins,port-wine stains,overgrowth of limbs,vascular malformation,"compression therapy, surgery",low-sodium diet
+Holt-Oram Syndrome,heart defects,thumb abnormalities,skeletal issues,genetic disorder,"surgery, heart monitoring",heart-healthy diet
+Treacher Collins Syndrome,underdeveloped facial bones,hearing loss,breathing difficulties,genetic disorder,"surgery, hearing aids",nutrient-dense foods
+Charge Syndrome,ear abnormalities,heart defects,breathing issues,genetic mutation,"surgery, therapy",balanced diet
+Proteus Syndrome,abnormal growth,asymmetric limbs,skin overgrowth,genetic disorder,"surgery, physical therapy",maintain hydration
+WAGR Syndrome,Wilms tumor,vision problems,developmental delay,genetic disorder,"surgery, chemotherapy",nutrient-dense foods
+Wolf-Hirschhorn Syndrome,delayed growth,intellectual disability,seizures,genetic mutation,"supportive care, physical therapy",calorie-rich diet
+Goldenhar Syndrome,facial asymmetry,hearing loss,spinal problems,genetic disorder,"surgery, hearing aids",nutrient-rich diet
+VACTERL Association,vertebral defects,anal atresia,heart defects,genetic disorder,"surgery, therapy",nutrient-dense diet
+Beckwith-Wiedemann Syndrome,large tongue,low blood sugar,abdominal wall defects,genetic disorder,"surgery, monitoring",balanced diet
+Klinefelter Syndrome,tall stature,small testes,breast development,extra X chromosome,"hormone therapy, fertility treatment",balanced diet
+Fragile X Syndrome,intellectual disability,hyperactivity,speech delay,genetic mutation,"therapy, medication",nutrient-dense foods
+DiGeorge Syndrome,immune deficiency,heart defects,cleft palate,genetic disorder,"surgery, calcium supplements",calcium-rich foods
+Alagille Syndrome,jaundice,heart problems,bile duct abnormalities,genetic disorder,"liver transplant, heart surgery",low-fat diet
+Mucopolysaccharidosis Type I (Hurler Syndrome),coarse facial features,organ enlargement,joint stiffness,enzyme deficiency,"enzyme replacement therapy, surgery",balanced diet
+Carpenter Syndrome,fused fingers/toes,skull abnormalities,developmental delay,genetic disorder,"surgery, therapy",nutrient-dense diet
+McCune-Albright Syndrome,cafe-au-lait spots,early puberty,bone fractures,genetic mutation,"hormone therapy, surgery",calcium-rich foods
+Rubinstein-Taybi Syndrome,broad thumbs,intellectual disability,distinctive facial features,genetic disorder,"therapy, surgery",balanced diet
+Joubert Syndrome,abnormal eye movements,breathing problems,developmental delay,genetic mutation,"therapy, supportive care",nutrient-rich diet
+Bardet-Biedl Syndrome,vision loss,obesity,extra fingers/toes,genetic disorder,"diet management, vision support",low-calorie diet
+Meckel-Gruber Syndrome,kidney cysts,extra fingers/toes,brain abnormalities,genetic disorder,supportive care,balanced nutrition
+Smith-Lemli-Opitz Syndrome,small head,intellectual disability,webbed toes,enzyme deficiency,cholesterol supplementation,cholesterol-rich foods
+Cornelia de Lange Syndrome,slow growth,limb abnormalities,intellectual disability,genetic disorder,"therapy, surgery",nutrient-dense diet
+Miller-Dieker Syndrome,smooth brain surface,seizures,developmental delay,genetic disorder,"supportive care, therapy",balanced diet
+Pallister-Killian Syndrome,skin pigmentation,intellectual disability,weak muscle tone,genetic disorder,"supportive care, therapy",maintain hydration
+Cri-du-Chat Syndrome,high-pitched cry,developmental delay,intellectual disability,genetic mutation,"therapy, supportive care",balanced diet
+Weaver Syndrome,rapid growth,intellectual disability,large hands/feet,genetic mutation,"therapy, surgery",nutrient-dense diet
+Sotos Syndrome,large head,developmental delay,intellectual disability,genetic disorder,"therapy, supportive care",balanced nutrition
+Pitt-Hopkins Syndrome,breathing irregularities,developmental delay,seizures,genetic mutation,"therapy, anti-seizure medication",balanced diet
+Coffin-Lowry Syndrome,intellectual disability,short stature,skeletal abnormalities,genetic disorder,"supportive care, therapy",maintain proper nutrition
+Oto-Palato-Digital Syndrome,hearing loss,cleft palate,skeletal abnormalities,genetic disorder,"surgery, hearing aids",nutrient-rich diet
+Emanuel Syndrome,slow growth,intellectual disability,cleft palate,chromosomal abnormality,"therapy, surgery",balanced diet
+Kabuki Syndrome,facial abnormalities,short stature,intellectual disability,genetic mutation,"therapy, surgery",nutrient-rich foods
+Pallister-Hall Syndrome,extra fingers/toes,breathing issues,pituitary abnormalities,genetic mutation,"surgery, therapy",nutrient-dense diet
+Lujan-Fryns Syndrome,intellectual disability,tall stature,long face,genetic mutation,"therapy, supportive care",maintain hydration
+Williams Syndrome,overly friendly behavior,heart defects,developmental delay,genetic disorder,"surgery, therapy",low-calcium diet
+Mowat-Wilson Syndrome,intellectual disability,seizures,distinctive facial features,genetic disorder,"therapy, surgery",balanced diet
