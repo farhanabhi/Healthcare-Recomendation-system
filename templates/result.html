@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personalized Healthcare Recommendation System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        
+        .container {
+            width: 80%;
+            margin: 40px auto;
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .result-header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        
+        .result-detail {
+            margin-bottom: 20px;
+        }
+        
+        .result-detail label {
+            font-weight: bold;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 class="result-header">Your Personalized Healthcare Recommendation</h2>
+        <div class="result-detail">
+            <label>Disease:</label> {{ disease }}
+        </div>
+        <div class="result-detail">
+            <label>Causes:</label> {{ causes }}
+        </div>
+        <div class="result-detail">
+            <label>Remedies:</label> {{ remedies }}
+        </div>
+        <div class="result-detail">
+            <label>Dietary Recommendations:</label> {{ dietary_recommendations }}
+        </div>
+    </div>
+</body>
+</html>
